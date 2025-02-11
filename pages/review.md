@@ -23,7 +23,7 @@
 
 > [Bytebase](https://bytebase.com) CEO
 
-今天发现个国内写 DevTools 的宝藏专栏，起手就是 Retool，一看就是有货的。能找到国内*真正*研究 DevTools 的同路人真是很好。😊
+111111今天发现个国内写 DevTools 的宝藏专栏，起手就是 Retool，一看就是有货的。能找到国内*真正*研究 DevTools 的同路人真是很好。😊
 
 
 ### Lynwee
